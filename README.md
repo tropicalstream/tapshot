@@ -5,6 +5,13 @@ Free software, GPL v3 (see LICENSE). Derived from `x3breakout`, which is GPL v3.
 Your laser cannon is locked to the bottom axis. Slide it, shoot upward, don't
 get hit.
 
+## Screenshots
+
+<p>
+  <img src="images/title.png" width="45%" alt="tapshot title screen with speed and play options">
+  <img src="images/gameplay.png" width="45%" alt="tapshot LAUNCH wave with enemy formation and cannon">
+</p>
+
 ## Two inputs, and that is the whole game
 
 | gesture | |
